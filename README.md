@@ -4,10 +4,10 @@ Repozytorium na potrzeby zaliczenia przedmiotu Zarządzanie Przedsięwzięciami 
 
 Projekt składa się z 7 zadań
 1. Utwórz repozytorium w serwisie github o nazwie 'nazwisko_imie'
-(bez polskich znaków).
+
 
 2. Repozytorium w chwili utworzenia ma zawierać plik licencji oraz
-README.md z krótkim opisem projektu (np. Projekt zaliczeniowy na potrzeby przedmiotu Zarządzanie przedsięwzięciami informatycznymi, jakieś punkty, itp.).
+README.md z krótkim opisem projektu.
 
 3. Zapisać zmiany w repozytorium, nadać etykietę 'init'.
 4. Dodać dwa pliki z rozszerzeniem *.h i dwa pliki z rozszerzeniem
