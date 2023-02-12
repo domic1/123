@@ -1,4 +1,4 @@
-# 123
+# Dominik Bącal
 Bącal Dominik
 Repozytorium na potrzeby zaliczenia przedmiotu Zarządzanie Przedsięwzięciami Informatycznymi
 
