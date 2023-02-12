@@ -19,5 +19,7 @@ się skomplikowane wzory matematyczne (np. całki, sumy, itp.), tabele i obrazki
 6. Dodać dokumentację w formie dodatkowych stron i zmodyfikowanej
 strony głównej. Wprowadzić zmiany do repozytorium i nadać im etykietę 'doxpage'.
 
-7. Utworzyć nową gałąź 'hotfix' i wprowadzić do niej deklarację
+
+7. Utworzyć nową gałąź 'hotfix' 
+i wprowadzić do niej deklarację
 i definicję klasy 'ErrorHandle'.
